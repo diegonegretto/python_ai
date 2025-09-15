@@ -1,6 +1,6 @@
 # 🐍 PythonAI
 
-Aplicação em **Python** que consome a **API do Google Gemini** para
+Aplicação de exemplo da utilização do **Python** para consumir a **API do Google Gemini** e
 responder perguntas em linguagem natural.\
 O projeto segue boas práticas de **POO** e utiliza **variáveis de
 ambiente** para proteger a chave da API.
