@@ -2,7 +2,7 @@
 [🇧🇷 Versão em Português](./README.md) | [🇺🇸 English Version](./README_EN.md)
 
 A **Python** application that consumes the **Google Gemini API** to
-answer natural language questions.\
+answer natural language questions.
 The project follows **OOP best practices** and uses **environment
 variables** to protect the API key.
 
@@ -10,8 +10,8 @@ variables** to protect the API key.
 
 ## 🚀 Requirements
 
--   Python **3.10+**\
--   Virtual environment set up (recommended)\
+-   Python **3.10+**
+-   Virtual environment set up (recommended)
 -   Dependencies installed via **pip**
 
 ------------------------------------------------------------------------
