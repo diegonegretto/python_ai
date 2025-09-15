@@ -10,7 +10,7 @@ ambiente** para proteger a chave da API.
 
 ## 🚀 Requisitos
 
--   Python **3.10+**\
+-   Python **3.10+**
 -   Ambiente virtual configurado (recomendado)\
 -   Dependências instaladas via **pip**
 
