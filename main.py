@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from ai_client import PythonAI
 
-class Aplicacao:
+class Aplication:
     
     def __init__(self, api_key):
         self.ai = PythonAI(api_key)
@@ -25,8 +25,8 @@ class Aplicacao:
 
             if op == 1:
                 prompt = input("Faça uma pergunta: ")
-                resposta = self.ai.ask(prompt)
-                print(resposta)
+                response = self.ai.ask(prompt)
+                print(response)
 
             elif op == 0:
                 print("Até mais!")
@@ -48,5 +48,5 @@ if __name__ == "__main__":
         raise ValueError("A variável de ambiente API_KEY não foi definida! "
                          "Crie um arquivo .env baseado em .env.example.")
     
-    app = Aplicacao(api_key=api_key)
+    app = Aplication(api_key=api_key)
     app.menu()
