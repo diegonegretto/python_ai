@@ -2,7 +2,7 @@
 [🇧🇷 Versão em Português](./README.md) | [🇺🇸 English Version](./README_EN.md)
 
 A **Python** application that consumes the **Google Gemini API** to
-answer natural language questions.
+answer natural language questions.\
 The project follows **OOP best practices** and uses **environment
 variables** to protect the API key.
 
