@@ -81,8 +81,3 @@ You will see a terminal menu with options to interact with the AI.
     │── requirements.txt  # Project dependencies
 
 ------------------------------------------------------------------------
-
-## ⚠️ Important
-
--   Never share the **.env** file on GitHub.\
--   Use only **.env.example** to indicate the required variables.
