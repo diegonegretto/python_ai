@@ -1,4 +1,5 @@
 # 🐍 PythonAI
+[🇧🇷 Versão em Português](./README.md) | [🇺🇸 English Version](./README_EN.md)
 
 Aplicação de exemplo da utilização do **Python** para consumir a **API do Google Gemini** e
 responder perguntas em linguagem natural.\
