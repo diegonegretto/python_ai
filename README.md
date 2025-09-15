@@ -81,9 +81,3 @@ Você verá um menu no terminal com as opções para interagir com a IA.
     │── requirements.txt  # Dependências do projeto
 
 ------------------------------------------------------------------------
-
-## ⚠️ Importante
-
--   Nunca compartilhe o arquivo **.env** no GitHub.\
--   Utilize apenas o **.env.example** para indicar as variáveis
-    necessárias.
