@@ -20,7 +20,7 @@ variables** to protect the API key.
 Clone this repository:
 
 ``` bash
-git clone https://github.com/your-username/python_ai.git
+git clone https://github.com/diegonegretto/python_ai.git
 cd python_ai
 ```
 
